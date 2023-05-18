@@ -1,0 +1,26 @@
+.maineTitle {
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: 'Oxygen';
+    text-shadow: 2px 2px 3px pink;
+}
+
+.phonebookWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+}
+
+.sectionTitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Oxygen';
+    text-shadow: 2px 2px 3px pink;
+    margin-top: 40px;
+}
+
+
+
