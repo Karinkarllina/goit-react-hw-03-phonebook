@@ -16,6 +16,7 @@ export const ContactList = ({ contacts, onDelete }) => {
               </li>
             )
           })}
+       
         
 </ul>
     )
